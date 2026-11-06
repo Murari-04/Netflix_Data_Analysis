@@ -1,0 +1,48 @@
+
+NETFLIX COUNTRY-WISE CONTENT ANALYSIS
+Auspify Technologies Internship
+====================================
+
+Dataset Overview:
+Original Records: 8790
+Country Records After Expansion: 8790
+Countries Represented: 86
+
+TOP 10 COUNTRIES BY CONTENT:
+
+country
+United States     3240
+India             1057
+United Kingdom     638
+Pakistan           421
+Not Given          287
+Canada             271
+Japan              259
+South Korea        214
+France             213
+Spain              182
+
+BUSINESS INSIGHTS:
+
+1. United States has the highest number
+   of Netflix titles in this dataset,
+   with 3240 titles.
+
+2. Netflix content is distributed
+   across multiple countries.
+
+3. Different countries contribute
+   to the platform's content library.
+
+4. Movies and TV Shows can be compared
+   across countries to understand
+   content distribution patterns.
+
+CONCLUSION:
+
+The analysis identifies the leading
+countries contributing to Netflix's
+content library and provides insights
+into country-wise content distribution.
+====================================
+Task 3 Completed Successfully!

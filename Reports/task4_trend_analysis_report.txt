@@ -1,0 +1,60 @@
+
+NETFLIX RELEASE YEAR TREND ANALYSIS
+Auspify Technologies Internship
+==================================
+
+DATASET OVERVIEW:
+
+Total Titles Analyzed: 8790
+
+Years Covered:
+1925 - 2021
+
+Average Annual Content Releases:
+118.78
+
+HIGHEST CONTENT RELEASE YEAR:
+
+Year: 2018
+Titles: 1146
+
+LOWEST CONTENT RELEASE YEAR:
+
+Year: 1925
+Titles: 1
+
+LATEST RELEASE YEAR:
+
+Year: 2021
+Titles: 592
+
+TOP 5 YEARS BY CONTENT RELEASES:
+
+release_year
+2018    1146
+2017    1030
+2019    1030
+2020     953
+2016     901
+
+BUSINESS INSIGHTS:
+
+1. Netflix content releases vary across
+   different release years.
+
+2. The highest content release year was
+   2018, with 1146 titles.
+
+3. Yearly growth rates help identify
+   periods of content growth and decline.
+
+4. Comparing Movies and TV Shows helps
+   understand historical content patterns.
+
+CONCLUSION:
+
+The analysis provides insights into
+Netflix's historical content release
+patterns and yearly distribution trends.
+==================================
+Task 4 Completed Successfully!

@@ -1,0 +1,51 @@
+
+NETFLIX BUSINESS INTELLIGENCE REPORT
+Auspify Technologies Internship - Task 6
+
+Generated On: 05-11-2026 16:19
+
+1. DATASET OVERVIEW
+
+Total Titles: 8790
+Movies: 6126
+TV Shows: 2664
+Countries Represented: 86
+
+2. CONTENT TYPE ANALYSIS
+
+Movies Percentage: 69.69%
+TV Shows Percentage: 30.31%
+
+3. GEOGRAPHICAL ANALYSIS
+
+Leading Country: United States
+Number of Titles: 3240
+
+4. GENRE ANALYSIS
+
+Leading Genre: International Movies
+Number of Titles: 2752
+
+5. RELEASE YEAR ANALYSIS
+
+Peak Release Year: 2018
+Number of Titles: 1146
+
+6. BUSINESS RECOMMENDATIONS
+
+1. Evaluate the balance between Movies and TV Shows.
+2. Study content opportunities in leading geographical markets.
+3. Evaluate investment opportunities in popular genres.
+4. Use historical release trends for content planning.
+
+7. CONCLUSION
+
+The analysis provides insights into Netflix's content
+distribution, geographical representation, genre patterns,
+and historical release trends.
+
+These insights can support data-driven content planning
+and business strategy.
+
+Note: This report analyzes catalogue data, not actual
+viewer engagement or streaming performance.

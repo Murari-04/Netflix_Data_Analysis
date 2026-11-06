@@ -1,0 +1,76 @@
+
+NETFLIX CONTENT RATING AND GENRE ANALYSIS
+Auspify Technologies Internship
+==========================================
+
+DATASET OVERVIEW:
+
+Total Netflix Titles: 8790
+Titles with Rating Information: 8790
+Total Genres Identified: 42
+
+RATING ANALYSIS:
+
+Most Common Rating: TV-MA
+Number of Titles: 3205
+
+TOP 10 RATINGS:
+
+rating
+TV-MA    3205
+TV-14    2157
+TV-PG     861
+R         799
+PG-13     490
+TV-Y7     333
+TV-Y      306
+PG        287
+TV-G      220
+NR         79
+
+GENRE ANALYSIS:
+
+Most Common Genre: International Movies
+Number of Titles: 2752
+
+TOP 10 GENRES:
+
+listed_in
+International Movies        2752
+Dramas                      2426
+Comedies                    1674
+International TV Shows      1349
+Documentaries                869
+Action & Adventure           859
+TV Dramas                    762
+Independent Movies           756
+Children & Family Movies     641
+Romantic Movies              616
+
+BUSINESS INSIGHTS:
+
+1. TV-MA is the most frequently
+   occurring content rating.
+
+2. International Movies is the most frequently
+   occurring genre in the dataset.
+
+3. Rating distribution helps understand
+   the audience classification of content.
+
+4. Genre distribution provides insights
+   into Netflix's content variety.
+
+5. Comparing ratings and genres across
+   Movies and TV Shows helps identify
+   differences in content distribution.
+
+CONCLUSION:
+
+The analysis explores Netflix content
+ratings, genre distribution and content
+type comparisons to understand the
+composition of its content library.
+
+==========================================
+TASK 5 COMPLETED SUCCESSFULLY!
