@@ -160,32 +160,6 @@ The following findings were obtained from the analyzed Netflix dataset:
 
 *Note: Country and genre counts may overlap because individual titles can be associated with multiple countries and genres.*
 
-## 📸 Dashboard Preview
-
-The project includes visualizations and an interactive Streamlit dashboard.
-
-Add your actual dashboard screenshots to the `Screenshots/` folder and use the following references:
-
-### 1. Dashboard Overview
-
-![Netflix Dashboard Overview](Screenshots/dashboard_overview.png)
-
-### 2. Content Distribution Analysis
-
-![Content Distribution](Screenshots/content_analysis.png)
-
-### 3. Country-Wise Analysis
-
-![Country Analysis](Screenshots/country_analysis.png)
-
-### 4. Genre and Rating Analysis
-
-![Genre and Rating Analysis](Screenshots/genre_rating_analysis.png)
-
-### 5. Business Insights
-
-![Business Insights](Screenshots/business_insights.png)
-
 ## 🚀 Installation and Execution
 
 Follow these steps to run the project locally.
